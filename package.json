@@ -6,16 +6,12 @@
   "scripts": {
     "start": "node ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Allvaa/lavalink-musicbot.git"
-  },
-  "author": "Allvaa",
+  "author": "rajamoulimallareddy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Allvaa/lavalink-musicbot/issues"
+    "url": "https://github.com/rajamoulimallareddy/AquaEdited/issues"
   },
-  "homepage": "https://github.com/Allvaa/lavalink-musicbot#readme",
+  "homepage": "https://github.com/rajamoulimallareddy/AquaEdited/readme",
   "dependencies": {
     "@lavacord/discord.js": "0.0.7",
     "discord.js": "^12.5.1",
