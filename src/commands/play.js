@@ -37,7 +37,7 @@ module.exports = {
                 if (music.player && music.player.playing) 
                     msg.channel.send(util.embed()
                         .setAuthor("Added To The Queue", msg.client.user.displayAvatarURL())
-                        .setDescription(`[${track.info.title}](${track.info.uri})`)
+                        .setDescription(`[${track.info.title}](${track.info.uri}) [${msg.author}]`)
                     );
             }
             
